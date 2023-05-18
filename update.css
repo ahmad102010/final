@@ -32,6 +32,17 @@ body {
     margin-left: 30%;
 }
 
+.Role{
+    display: flex;
+    justify-content: center;
+    color: white;
+    margin-top: 20px;
+}
+.r1{
+    margin-top: 10px;
+    margin-left: 10px;
+
+}
 .btn1 {
     text-decoration: none;
     color: white;
